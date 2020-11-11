@@ -1,0 +1,2 @@
+# justastep
+first static website
